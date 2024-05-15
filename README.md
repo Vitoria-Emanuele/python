@@ -201,7 +201,7 @@ def soma(x, y):
 
 uma função de soma simples entre dois numeros. Observamos mais uma vez que no parametro não precisamos declarar os tipos de variaveis que entraram na função.
 
-## Importanto bibliotecas
+## Importando bibliotecas
 
 Assim como nas outras linguagens, em python tambem podemos importar bibliotecas. Existem duas formas básicas de trabalharmos com as importações, de forma bastante simples, podemos importar uma biblioteca inteira a referenciando pelo nome após o comando import, ou podemos importar apenas algo de dentro de uma biblioteca externa para incormporarmos em nosso código, através do comando from (nome da biblioteca) import (nome da função).
 Por exemplo, podemos importar a biblioteca inteira que contem funções matematicas ou importa apenas uma função dessa biblioteca:
